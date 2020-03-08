@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 teständringi
+=======
+madoka
+>>>>>>> 206ea764f4b7361509e608b2f533caba9e8e47f9
